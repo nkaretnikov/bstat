@@ -17,7 +17,7 @@
 name:                bstat
 version:             0.1.0.0
 synopsis:            report battery status information
-homepage:            https://gitorious.org/bstat
+homepage:            https://github.com/nkaretnikov/bstat
 license:             GPL-3
 license-file:        LICENSE
 author:              Nikita Karetnikov
